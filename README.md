@@ -1,1 +1,1 @@
-# Retail_Analysis_Project
+# Complete Data Engineering Project with dbt Cloud, Redshift & GitHub
